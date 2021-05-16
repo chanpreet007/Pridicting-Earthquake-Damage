@@ -116,4 +116,4 @@ building_id	damage_grade
 16528	1
 3253	1
 18614	1
-1544	1
+1544	
